@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Apple Symbol (Apple devices)</title>
+  <style>
+    .apple {
+      font-size: 64px;
+      line-height: 1;
+    }
+  </style>
+</head>
+<body>
+  <div class="apple"></div> <!-- U+F8FF -->
+  <p>Note: this displays the Apple logo on macOS/iOS only.</p>
+</body>
+</html>
